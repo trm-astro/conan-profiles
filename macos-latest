@@ -1,0 +1,3 @@
+[settings]
+os=Macos
+compiler.cppstd=gnu17

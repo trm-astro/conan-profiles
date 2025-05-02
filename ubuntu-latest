@@ -1,0 +1,3 @@
+[settings]
+os=Linux
+compiler.cppstd=gnu17
