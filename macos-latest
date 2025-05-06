@@ -4,5 +4,5 @@ compiler=apple-clang
 compiler.version=14
 compiler.libcxx=libc++
 compiler.cppstd=17
-arch=arm64
+arch=armv8
 build_type=Release
