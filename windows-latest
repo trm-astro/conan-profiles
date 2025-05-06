@@ -1,3 +1,8 @@
 [settings]
 os=Windows
-compiler.cppstd=gnu17
+compiler=msvc
+compiler.version=193
+compiler.runtime=dynamic
+compiler.cppstd=17
+arch=x86_64
+build_type=Release
